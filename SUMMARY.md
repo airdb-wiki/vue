@@ -1,8 +1,8 @@
 # Summary
 
-## Gitbook Template
+## Vue Developer
 
-* [Wiki](wiki/README.md)
+* [Vue](wiki/README.md)
 
 ## Tags
 
